@@ -1,0 +1,94 @@
+
+.title {
+    color: blanchedalmond;
+    font-size: 4em;
+    margin: 2.5%;
+    padding: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+div .container {
+    height: 60%;
+    margin: 0 auto; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container { 
+    display: flex; 
+    width: 560px; /* 28 x 20px squares*/
+    height: 560px;
+    border: solid black;
+}
+
+
+.container div{
+    width:20px; height:20px;
+}
+
+.score{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: yellow;
+    border: 5px solid blue;
+    width: 560px;
+    margin: 10px auto auto auto;
+}
+.pac-dot{
+    background-color: greenyellow;
+    border: 5px solid grey;
+    box-sizing: border-box;         
+}
+
+.wall{
+    background-color: darkblue
+}
+
+.power-pellet {
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+.pac-man{
+    background-image: url('PacmanImages/PacMan1.png');
+    margin: auto;
+    background-repeat: no-repeat;
+    
+}
+
+.pac-man-down {
+    background-image: url('PacmanImages/PacMan6.png');
+    margin: auto;
+    background-repeat: no-repeat;
+    
+}
+
+.blinky {
+    background-color: red;
+    border: 0px
+}
+
+.pinky {
+    background-color: pink;
+    border: 0px
+}
+
+.inky { 
+    background-color: cyan;
+    border: 0px;
+}
+
+.clyde {
+    background-color: orange;
+    border: 0px;
+}
+
+.scared-ghost {
+    background-color: aquamarine;
+    border: 0px;
+}

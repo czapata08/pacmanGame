@@ -2,7 +2,7 @@
 <h4>This game is based on the classic Pac-man video game, where the goal is to eat all pellet and avoid getting eaten by the ghosts. This application combines CSS, DOM, HTML and javascript in order to create this game and add functionality. </h4>
 
 <h2>Usage</h2>
-<li>Move the pac-man image thruough the gameboard with your keyboard arrows<li>
+<li>Move the pac-man image thruough the gameboard with your keyboard arrows</li>
 <li>Don't let the ghosts catch up to you</li>
 <li>Eat the power pellet to allow you to eat the ghosts</li>
 <li>After power pellet is eaten, ghosts are vulnerable and you can eat them for a few seconds</li>

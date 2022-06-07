@@ -2,10 +2,10 @@
 <h4>This game is based on the classic Pac-man video game, where the goal is to eat all pellet and avoid getting eaten by the ghosts. This application combines CSS, DOM, HTML and javascript in order to create this game and add functionality. </h4>
 
 <h2>Usage</h2>
-<li>Move the pac-man image thruough the game with your keyboard arrows<li>
+<li>Move the pac-man image thruough the gameboard with your keyboard arrows<li>
 <li>Don't let the ghosts catch up to you</li>
 <li>Eat the power pellet to allow you to eat the ghosts</li>
-<li>After power pellet is eaten, ghosts are vulnerable for a few seconds</li>
+<li>After power pellet is eaten, ghosts are vulnerable and you can eat them for a few seconds</li>
 <li>To win the game eat all pellets</li>
 
 <h2>Roadmap</h2>
@@ -14,20 +14,18 @@
 <li>Change pac-man image base on direction</li>
 
 
-<h2>Project Goals</h2>
-<ol> 
+<h2>Project Goals</h2> 
     <li>Create a grid container and add images dynamically</li>
     <li>Allow user to manipulate the movement of pac-man image in the grid with the arrow keys</li>
     <li>Randomly move ghosts within the grid container</li>
-</ol>
 
-<h2> Key Learnings </h2>
-<ol> 
+
+<h2> Key Learnings </h2> 
    <li> Work with mutiple CSS techniques to create and display game</li>
    <li> Extensive DOM manipulation to dynamically create game in browser</li>
    <li> Structure javascript logic to bring functionality to the game </li>
    <li> Use of keycode and conditionals to allow user to move pacman with keyboard </li>
-</ol>
+
 
 <h2> Languages </h2>
 <li>JavaScript</li>
